@@ -7,7 +7,7 @@ echo esc_html( "foo1" . PHP_EOL );
 echo esc_html( "foo2" . PHP_EOL ); // Some stuff
 
 // Testing again
-echo esc_html( "foo2" . PHP_EOL ); // Some other stuff
+echo esc_html( "foo2 -- material change" . PHP_EOL ); // Some other stuff
 
 
 /*
