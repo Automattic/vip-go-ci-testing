@@ -1,1 +1,1 @@
-{"post-generic-pr-support-comments":true,"phpcs-severity":2}
+{"post-generic-pr-support-comments":true,"phpcs-sniffs-exclude":["OtherSniff1","OtherSniff2"]}
