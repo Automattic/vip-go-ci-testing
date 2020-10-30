@@ -1,3 +1,3 @@
 [submodule "folder1/vip-go-ci-repo"]
 	path = folder1/vip-go-ci-repo
-	url = https://github.com/automattic/vip-go-ci/
+	url = https://github.com/automattic/vip-go-ci.git
