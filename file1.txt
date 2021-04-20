@@ -1,3 +1,7 @@
 Line 1
 
+Line 3
+
+Line 7
+
 Last line of file
