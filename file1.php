@@ -1,7 +1,7 @@
 <?php
 
 // Some output
-echo esc_html( "foo1" . PHP_EOL );
+echo esc_html( "foo1" . PHP_EOL ); // New comment.
 
 // Testing
 echo esc_html( "foo2" . PHP_EOL ); // Some stuff
