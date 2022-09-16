@@ -1,5 +1,0 @@
-<?php
-
-/*
- * Not a theme.
- */
